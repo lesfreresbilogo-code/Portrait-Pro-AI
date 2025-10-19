@@ -1,0 +1,5 @@
+{
+  "name": "Portrait Pro AI",
+  "description": "Generate professional-quality portraits from a simple face photo. The AI creates a complete scene (clothing, decor, lighting, pose) around the user's face, inspired by various visual styles.",
+  "requestFramePermissions": []
+}
